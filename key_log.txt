@@ -1,0 +1,1 @@
+Key.backspace'A'Key.shift'k''a''s''h'Key.enter
